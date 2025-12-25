@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Database Project Timeline" id="JUPQ218A1k49wiuxDpP0">
+    <mxGraphModel dx="856" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="" vertex="1">
+          <mxGeometry height="190" width="420" x="140" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-18" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Phase 1&lt;br&gt;Requirements &amp;amp; Analysis" vertex="1">
+          <mxGeometry height="170" width="340" x="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-108" parent="j0ASo1nMMT4HVw1uRiBe-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;span data-start=&quot;1482&quot; data-end=&quot;1491&quot;&gt;Goal:&lt;/span&gt; Understand what data you need&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-19" parent="j0ASo1nMMT4HVw1uRiBe-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1554&quot; data-end=&quot;1614&quot;&gt;&lt;p data-start=&quot;1556&quot; data-end=&quot;1614&quot;&gt;Identify entities (Hospital, Location, Capacity, Services)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-20" parent="j0ASo1nMMT4HVw1uRiBe-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;Define required fields for each entity&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-21" parent="j0ASo1nMMT4HVw1uRiBe-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Identify relationships (1-to-many, many-to-many)" vertex="1">
+          <mxGeometry height="50" width="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-22" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1554&quot; data-end=&quot;1614&quot;&gt;&lt;p data-start=&quot;1556&quot; data-end=&quot;1614&quot;&gt;Identify entities (Hospital, Location, Capacity, Services)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-23" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;Define required fields for each entity&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-24" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Identify relationships (1-to-many, many-to-many)" vertex="1">
+          <mxGeometry height="50" width="340" x="180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="" vertex="1">
+          <mxGeometry height="190" width="420" x="140" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-32" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Phase 2&lt;br&gt;Logical Database Design" vertex="1">
+          <mxGeometry height="170" width="340" x="175" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-107" parent="j0ASo1nMMT4HVw1uRiBe-32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;span data-start=&quot;2030&quot; data-end=&quot;2039&quot;&gt;Goal:&lt;/span&gt; Design tables &lt;span data-start=&quot;2054&quot; data-end=&quot;2081&quot;&gt;without writing SQL&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-33" parent="j0ASo1nMMT4HVw1uRiBe-32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1554&quot; data-end=&quot;1614&quot;&gt;&lt;p data-start=&quot;1556&quot; data-end=&quot;1614&quot;&gt;Draw ERD (Entity Relationship Diagram)&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-34" parent="j0ASo1nMMT4HVw1uRiBe-32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;Normalize tables (avoid duplication)&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-35" parent="j0ASo1nMMT4HVw1uRiBe-32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Define primary keys and foreign keys" vertex="1">
+          <mxGeometry height="50" width="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-36" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1554&quot; data-end=&quot;1614&quot;&gt;&lt;p data-start=&quot;1556&quot; data-end=&quot;1614&quot;&gt;Identify entities (Hospital, Location, Capacity, Services)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-37" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;Define required fields for each entity&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-38" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Identify relationships (1-to-many, many-to-many)" vertex="1">
+          <mxGeometry height="50" width="340" x="180" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="" vertex="1">
+          <mxGeometry height="190" width="420" x="140" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-40" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Phase 3&lt;br&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Code-First Model in C# (EF Core)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="340" x="173" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-106" parent="j0ASo1nMMT4HVw1uRiBe-40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p data-start=&quot;2437&quot; data-end=&quot;2487&quot;&gt;&lt;b&gt;&lt;span data-start=&quot;2437&quot; data-end=&quot;2446&quot;&gt;Goal:&lt;/span&gt; Turn design into actual database tables.&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;&lt;p data-start=&quot;2489&quot; data-end=&quot;2499&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-41" parent="j0ASo1nMMT4HVw1uRiBe-40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Create C# POCO classes for each entity (Hospital, Location,..)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-42" parent="j0ASo1nMMT4HVw1uRiBe-40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Define relationships using navigation properties and [ForeignKey] attributes&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-43" parent="j0ASo1nMMT4HVw1uRiBe-40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;R&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;un migrations to create the database&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-85" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1554&quot; data-end=&quot;1614&quot;&gt;&lt;p data-start=&quot;1556&quot; data-end=&quot;1614&quot;&gt;Identify entities (Hospital, Location, Capacity, Services)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="659" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-86" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;Define required fields for each entity&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="689" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-87" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Identify relationships (1-to-many, many-to-many)" vertex="1">
+          <mxGeometry height="50" width="340" x="180" y="719" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="" vertex="1">
+          <mxGeometry height="170" width="420" x="140" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-89" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;h3 data-start=&quot;2752&quot; data-end=&quot;2781&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;Phase 4&lt;br&gt;Database Seeding&lt;/span&gt;&lt;/h3&gt;&lt;br&gt;&lt;p data-start=&quot;2782&quot; data-end=&quot;2829&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="180" y="629" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-103" parent="j0ASo1nMMT4HVw1uRiBe-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p data-start=&quot;2782&quot; data-end=&quot;2829&quot;&gt;&lt;b&gt;&lt;span data-start=&quot;2782&quot; data-end=&quot;2791&quot;&gt;Goal:&lt;/span&gt; Insert initial data so the app works.&lt;/b&gt;&lt;/p&gt;&lt;p data-start=&quot;2831&quot; data-end=&quot;2841&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-90" parent="j0ASo1nMMT4HVw1uRiBe-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;2842&quot; data-end=&quot;2872&quot;&gt;&lt;p data-start=&quot;2844&quot; data-end=&quot;2872&quot;&gt;Seed hospitals (static data)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;li data-start=&quot;2873&quot; data-end=&quot;2910&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;2875&quot; data-end=&quot;2910&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-91" parent="j0ASo1nMMT4HVw1uRiBe-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Seed services (ER, ICU, Pediatrics)&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-92" parent="j0ASo1nMMT4HVw1uRiBe-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;Seed test capacity data&lt;/div&gt;&lt;p data-start=&quot;2938&quot; data-end=&quot;2954&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-93" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1554&quot; data-end=&quot;1614&quot;&gt;&lt;p data-start=&quot;1556&quot; data-end=&quot;1614&quot;&gt;Identify entities (Hospital, Location, Capacity, Services)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;br/&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="849" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-94" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;p data-start=&quot;1617&quot; data-end=&quot;1655&quot;&gt;Define required fields for each entity&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="180" y="879" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-95" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Identify relationships (1-to-many, many-to-many)" vertex="1">
+          <mxGeometry height="50" width="340" x="180" y="909" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="" vertex="1">
+          <mxGeometry height="211" width="420" x="140" y="809" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-97" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Phase 5&lt;br&gt;Scraping / API Data Ingestion" vertex="1">
+          <mxGeometry height="190" width="340" x="173" y="819" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-104" parent="j0ASo1nMMT4HVw1uRiBe-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;p data-start=&quot;3144&quot; data-end=&quot;3199&quot;&gt;&lt;strong data-start=&quot;3144&quot; data-end=&quot;3153&quot;&gt;Goal:&lt;/strong&gt; Populate or update hospital data dynamically.&lt;/p&gt;&lt;br/&gt;&lt;p data-start=&quot;3201&quot; data-end=&quot;3211&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-98" parent="j0ASo1nMMT4HVw1uRiBe-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;3212&quot; data-end=&quot;3257&quot;&gt;&lt;p data-start=&quot;3214&quot; data-end=&quot;3257&quot;&gt;Identify external API or public data source&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-99" parent="j0ASo1nMMT4HVw1uRiBe-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;1615&quot; data-end=&quot;1655&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;Build C# service to fetch data&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-100" parent="j0ASo1nMMT4HVw1uRiBe-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;li data-start=&quot;3291&quot; data-end=&quot;3307&quot;&gt;&lt;p data-start=&quot;3293&quot; data-end=&quot;3307&quot;&gt;Parse JSON/XML&lt;/p&gt;&lt;/li&gt;&lt;/div&gt;&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-105" parent="j0ASo1nMMT4HVw1uRiBe-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;li data-start=&quot;3308&quot; data-end=&quot;3332&quot;&gt;&lt;p data-start=&quot;3310&quot; data-end=&quot;3332&quot;&gt;Store data in database / Handle Update&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="40" width="340" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="j0ASo1nMMT4HVw1uRiBe-101" edge="1" parent="1" source="j0ASo1nMMT4HVw1uRiBe-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="j0ASo1nMMT4HVw1uRiBe-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
